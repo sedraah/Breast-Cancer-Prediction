@@ -22,8 +22,8 @@ A binary classification project using the scikit-learn Breast Cancer Wisconsin d
 
 | Class | Count | Proportion |
 |---|---|---|
-| 1 — Benign | 357 | 62.7% |
-| 0 — Malignant | 212 | 37.3% |
+| Benign (1) | 357 | 62.7% |
+| Malignant (0) | 212 | 37.3% |
 
 The dataset has a moderate class imbalance (~1.7:1 benign-to-malignant ratio).
 
